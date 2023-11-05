@@ -11,9 +11,13 @@ Codes used for figure assembly, coloring, video generation, etc. are NOT maintai
 Generalized code for every other part of the paper is freely availble in the following repositories, which are complete with their own readme.txt files that will guide a user through their use:
 
 General sptPALM and tracking code: https://github.com/cjobara/sptPALM_general
+
 ERMCS-specific code: https://github.com/cjobara/ERMCS_specific
+
 Local Diffusion maps via inferenceMAP: https://github.com/cjobara/LocalDiffusion
+
 Nonparametric Bayesian Analysis: https://github.com/cjobara/UrsaAnalyticsCode
+
 FIB-SEM analysis and local curvatrue in 2D: https://github.com/cjobara/FIB-SEM_curvature
 
 If you have any trouble, please reach out to Chris Obara for help: cjobara@gmail.com or obarac@janelia.hhmi.org.
