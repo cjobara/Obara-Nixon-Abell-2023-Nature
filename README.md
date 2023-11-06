@@ -1,5 +1,5 @@
 # Obara-Nixon-Abell-2023-Nature
-Compiled code used for Obara + Nixon-Abell et al., 2023, Nature (Obara + Nixon-Abell et al. 2023, https://www.biorxiv.org/content/10.1101/2022.09.03.505525v1![image](https://github.com/cjobara/Obara-Nixon-Abell-2023-Nature/assets/78051245/913104a7-eca0-4380-9922-53ce38363f0a))
+Compiled code used for Obara + Nixon-Abell et al., 2023, Nature (Obara + Nixon-Abell et al. 2023, https://www.biorxiv.org/content/10.1101/2022.09.03.505525v1)
 
 
 
@@ -31,5 +31,3 @@ Paper details:
 
 Motion of VAPB molecules reveals ER-mitochondria contact site subdomains
 To coordinate cellular physiology, eukaryotic cells rely on the rapid exchange of molecules at specialized organelle-organelle contact sites. Endoplasmic reticulum-mitochondrial contact sites (ERMCSs) are particularly vital communication hubs, playing key roles in the exchange of signaling molecules, lipids, and metabolites. ERMCSs are maintained by interactions between complementary tethering molecules on the surface of each organelle. However, due to the extreme sensitivity of these membrane interfaces to experimental perturbation, a clear understanding of their nanoscale organization and regulation is still lacking. Here, we combine 3D electron microscopy with high-speed molecular tracking of a model organelle tether, VAPB, to map the structure and diffusion landscape of ERMCSs. We uncovered dynamic subdomains within VAPB contact sites that correlate with ER membrane curvature and undergo rapid remodeling. We show that VAPB molecules enter and leave ERMCSs within seconds, despite the contact site itself remaining stable over much longer time scales. This metastability allows ERMCSs to remodel with changes in the physiological environment to accommodate metabolic needs of the cell. An amyotrophic lateral sclerosis (ALS)-associated mutation in VAPB perturbs these subdomains, likely impairing their remodeling capacity and resulting in impaired inter-organelle communication. These results establish high speed single molecule imaging as a new tool for mapping the structure of contact site interfaces and reveal that the diffusion landscape of VAPB at contact sites is a crucial component of ERMCS homeostasis.
-![image](https://github.com/cjobara/Obara-Nixon-Abell-2023-Nature/assets/78051245/a4945796-23aa-4497-87a5-b60ff3b8f107)
-
